@@ -4,7 +4,7 @@
 		module="playbyplayscala-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180125221049"
+		publication="20180206013553"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

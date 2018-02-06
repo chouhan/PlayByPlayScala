@@ -1,0 +1,34 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+project/project/
+project/target/config-classes/$0d31e74238d383878785$.class
+project/target/config-classes/$0d31e74238d383878785.cache
+project/target/config-classes/$0d31e74238d383878785.class
+project/target/config-classes/$4096717671e67d3640a0$.class
+project/target/config-classes/$4096717671e67d3640a0.cache
+project/target/config-classes/$4096717671e67d3640a0.class
+project/target/config-classes/$621ef6384c01b0b90c78$.class
+project/target/config-classes/$621ef6384c01b0b90c78.cache
+project/target/config-classes/$621ef6384c01b0b90c78.class
+project/target/config-classes/$6abad83197a6aa7fa2fc$.class
+project/target/config-classes/$6abad83197a6aa7fa2fc.cache
+project/target/config-classes/$6abad83197a6aa7fa2fc.class
+project/target/config-classes/$8eb4ae244bda3dd0a8f3$.class
+project/target/config-classes/$8eb4ae244bda3dd0a8f3.cache
+project/target/config-classes/$8eb4ae244bda3dd0a8f3.class
+project/target/config-classes/$ac6ccdeae0ddd22b2e50$.class
+project/target/config-classes/$ac6ccdeae0ddd22b2e50.cache
+project/target/config-classes/$ac6ccdeae0ddd22b2e50.class
+project/target/config-classes/$fa7239ead653253eff80$.class
+project/target/config-classes/$fa7239ead653253eff80.cache
+project/target/config-classes/$fa7239ead653253eff80.class
+project/target/streams/compile/compileIncSetup/
+target/scala-2.12/test-classes/
+target/streams/test/compileIncSetup/

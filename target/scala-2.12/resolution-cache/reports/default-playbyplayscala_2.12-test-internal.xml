@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180125220702"/>
+		date="20180206013857"/>
 	<dependencies>
 		<module organisation="org.specs2" name="specs2-core_2.12">
 			<revision name="3.9.5" status="release" pubdate="20170828014723" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">

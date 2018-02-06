@@ -4,7 +4,7 @@
 		module="playbyplayscala$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180201191231"
+		publication="20180206013858"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
