@@ -1,0 +1,10 @@
+console
+sbt
+console
+sbt
+:q
+:q!
+exit()
+exit
+~test
+test
